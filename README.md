@@ -2,7 +2,7 @@
 
 A custom tricopter airframe, designed from requirements and validated by test. Every design decision follows the same loop: **requirement → prediction → test → measured result → decision.**
 
-**Why it exists:** my first tricopter frame (3D-printed PLA) never flew. It split along print layer lines at the arm-to-hub joints, and the radio link never worked. I "tested" its flight by using workaround in ardupilot by wiring it to my computer which led to a crash and realization of the structural weak points. This project replaces it with a frame I can analyze, test, and defend with numbers. I have been making use of Claude AI to help me log and track this project as I work through it.
+**Why it exists:** my first tricopter frame (3D-printed PLA) never flew. It split along print layer lines at the arm-to-hub joints, and the radio link never worked. I "tested" its flight by using workaround in ardupilot by wiring it to my computer which led to a crash and realization of the structural weak points. This project replaces it with a frame I can analyze, test, and defend with numbers. I have been making use of Claude AI to help me plan and log this project as I work through it.
 
 **Current phase:** 1 — Requirements
 
